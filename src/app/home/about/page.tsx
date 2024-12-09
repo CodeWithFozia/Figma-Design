@@ -25,8 +25,8 @@ const AboutUs = () => {
 
     <div className='flex space-x-4 justify-between'>
        <Image src={"/image/Product Card@2x.svg"} alt='hero-image' width={630} height={462}/>
-       <Image src={"/image/product Card@2x (1).svg"} alt='hero-image' width={305} height={462}/>
-       <Image src={"/image/product Card@2x (2).svg"} alt='hero-image' width={305} height={462}/>
+       <Image src={"/image/product card about.svg"} alt='hero-image' width={305} height={462}/>
+       <Image src={"/image/productabout2.svg"} alt='hero-image' width={305} height={462}/>
        </div>
 
     </section>
