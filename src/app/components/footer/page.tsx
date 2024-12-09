@@ -5,7 +5,6 @@ import { FaTwitter } from "react-icons/fa";
 import { FaInstagram } from "react-icons/fa6";
 import { FaLinkedinIn } from "react-icons/fa";
 
-
 function Footer  () {
   return (
     <footer className="text-gray-600 body-font">
